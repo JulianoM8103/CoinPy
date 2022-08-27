@@ -34,6 +34,8 @@ Pour la **partie matérielle** de __CoinPy__,
 
 ## 4. FAQ
 
+**POUR POSER UNE QUESTION, MERCI D'ENVOYER UN MAIL A CETTE ADRESSE : contact.coinpy@gmail.com*
+
 **Le boîtier sera t'il mis en vente ?**
 *Pour le plus grand desespoir de tous, non ce n'est pas prévu pour le moment, et ça ne le sera probablement jamais.*
 
