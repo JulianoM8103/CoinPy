@@ -24,7 +24,7 @@ Pour récupérer les __prix des crypto-monnaies__, j'ai utiliser l'API (**Progra
 
 ### 3.2. Moyens matériels⁫
 
-Pour la **partie matérielle**
+Pour la **partie matérielle** de __CoinPy__,
 
 ## 4. FAQ
 
@@ -38,7 +38,7 @@ Pour la **partie matérielle**
 *Coin pour les crypto-monnaies et Py pour "Python"*
 
 **Une deuxième version du boîtier existera ?**
-*Pour l'instant ce n'est pas envisagé, a voit 
+*Pour l'instant ce n'est pas envisagé, a voir* 
 
 **Pourquoi avoir créer ce boîter ?**
 *Je n'en sais rien.*
