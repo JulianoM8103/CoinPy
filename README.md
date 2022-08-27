@@ -1,11 +1,17 @@
 # 🌟 Coinpy 🌟
 
 ## 1. Somaire 
+
 **1. Sommaire**
+
 **2. Explications du projet**
+
 **3. Moyens mis en place**
+
 **3.1. Moyens logiciels**
+
 **3.2. Moyens matériels**
+
 **4. FAQ**
 
 ## 2. Explications du projet
