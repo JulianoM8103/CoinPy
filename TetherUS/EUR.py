@@ -6,7 +6,7 @@ import requests
 key = "https://api.binance.com/api/v3/ticker/price?symbol="
 
 # Making list for multiple crypto's
-currencies = ["BTCUSD"]
+currencies = ["USDTEUR"]
 j = 0
 
 # running loop to print all crypto prices
@@ -17,4 +17,4 @@ for i in currencies:
 data = requests.get(url)
 data = data.json()
 j = j+1
-print("Le prix du Bitcoin est de",data['price'],"$")
+print("Le prix du TetherUS est de",data['price'],"€")
