@@ -25,9 +25,9 @@ Pour la **partie logicielle** de __CoinPy__, j'ai utiliser **plusieurs** petites
 
 J'ai du tout d'abord opter pour le langage de programmation "*Python*", en effet ce langage est **__plus simple a intégrer dans le projet__**. Car j'ai utiliser un deuxième langage de programmation : *Arduino*. 
 
-Pour récupérer les __prix des crypto-monnaies__, j'ai utiliser l'API (**Programme permettant d'intéragir avec des sites web, dans mon cas a envoyer des requêtes au site**) de *CoinDesk*.
+Pour récupérer les __prix des crypto-monnaies__, j'ai utiliser l'API (**Programme permettant d'intéragir avec des sites web, dans mon cas a envoyer des requêtes au site**) de *Binance*.
 
-**CoinPy est sous license CC BY-SA, plus d'informations dans le fichier "LICENSE"**
+**CoinPy est sous license CC BY-SA, plus d'informations dans le fichier "LICENSE"**.
 
 ### 3.2. Moyens matériels⁫
 
