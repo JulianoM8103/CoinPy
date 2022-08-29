@@ -18,8 +18,6 @@
 
 **CoinPy** est un __boitier avec un écran et quatres boutons sur le côté__. Chaques boutons correspond a **une crypto-monnaie** (ex: Bitcoin, Ethereum, etc..). Quand un des boutons est pressé, le boitier affiche sur l'écran le **prix** de la crypto-monnaie (**en € et en $**) au __moment__ ou le bouton a été pressé.
 
-![Démarrage](https://user-images.githubusercontent.com/87315533/187241735-0beea083-39ac-4149-bf87-64542e7c354f.jpg)
-
 ## 3. Moyens mis en place
 ### 3.1. Moyens logiciels
 
